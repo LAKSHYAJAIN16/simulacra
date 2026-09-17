@@ -6,7 +6,7 @@
 <img src="cover.png" alt="Smallville" style="width: 80%; min-width: 300px; display: block; margin: auto;">
 </p>
 
-> Quick note before the original docs below: this is just my personal clone of Joon Sung Park et al.'s [`joonspk-research/generative_agents`](https://github.com/joonspk-research/generative_agents) (the "Generative Agents" / Smallville paper, [arXiv:2304.03442](https://arxiv.org/abs/2304.03442)). I pulled it down to run the simulation myself — a Django "environment" server plus a Python "reverie" backend driving the agents' memory/planning/reflection loop — and haven't modified the codebase, so I'm leaving the rest of this README exactly as the original authors wrote it, since it still describes exactly how to run everything.
+> This is my personal clone of Joon Sung Park et al.'s [`joonspk-research/generative_agents`](https://github.com/joonspk-research/generative_agents) (the "Generative Agents" / Smallville paper, [arXiv:2304.03442](https://arxiv.org/abs/2304.03442)). I pulled it down to run the simulation myself and haven't modified it, so everything below is the original authors' docs, unedited.
 
 This repository accompanies our research paper titled "[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)." It contains our core simulation module for  generative agents—computational agents that simulate believable human behaviors—and their game environment. Below, we document the steps for setting up the simulation environment on your local machine and for replaying the simulation as a demo animation.
 
